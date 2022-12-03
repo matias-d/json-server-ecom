@@ -1,0 +1,300 @@
+{
+    "products": [
+      {
+        "id": "2",
+        "name": "Microsoft Xbox Series X",
+        "price": 299.99,
+        "rating": 3,
+        "description": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum esse natus blanditiis maiores repellendus repellat rem molestiae sint, asperiores pariatur id assumenda, vitae nemo incidunt eligendi, sapiente amet odit. Doloribus.",
+        "category": "consolas",
+        "img": "https://compass-ssl.xbox.com/assets/b9/0a/b90ad58f-9950-44a7-87fa-1ee8f0b6a90e.jpg?n=XSX_Page-Hero-0_768x792.jpg",
+        "categoryId": 1
+      },
+      {
+        "id": "3",
+        "name": "Consola Gameboy Advanced retro",
+        "price": 119.99,
+        "rating": 4,
+        "description": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum esse natus blanditiis maiores repellendus repellat rem molestiae sint, asperiores pariatur id assumenda, vitae nemo incidunt eligendi, sapiente amet odit. Doloribus.",
+        "category": "consolas",
+        "discount": {
+          "porcent": "25%",
+          "priceToDisc": "$37.5"
+        },
+        "img": "https://www.radiocantilo.com/wp-content/uploads/2019/04/dims.jpg",
+        "categoryId": 1
+      },
+      {
+        "id": "4",
+        "name": "Nintendo Retro Bundle 64",
+        "price": 169.99,
+        "rating": 5,
+        "description": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum esse natus blanditiis maiores repellendus repellat rem molestiae sint, asperiores pariatur id assumenda, vitae nemo incidunt eligendi, sapiente amet odit. Doloribus.",
+        "category": "consolas",
+        "img": "https://cloudfront-us-east-1.images.arcpublishing.com/copesa/NIVULWKBQ5GSXEGWLGNZOY2GZE.jpg",
+        "categoryId": 1
+      },
+      {
+        "id": "5",
+        "name": "Nintendo Switch Standard",
+        "price": 259.99,
+        "rating": 4,
+        "description": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum esse natus blanditiis maiores repellendus repellat rem molestiae sint, asperiores pariatur id assumenda, vitae nemo incidunt eligendi, sapiente amet odit. Doloribus.",
+        "category": "consolas",
+        "discount": {
+          "porcent": "30%",
+          "priceToDisc": "$110"
+        },
+        "img": "https://www.latercera.com/resizer/_snFXFOt5NNG72FFzZFVB4G8JwM=/arc-anglerfish-arc2-prod-copesa/public/IPV7CXQ5MJBCRM3WUNTCGRETL4.jpg",
+        "categoryId": 1
+      },
+      {
+        "id": "6",
+        "name": "Joystick inalámbrico PlayStation 4",
+        "price": 59.99,
+        "rating": 3,
+        "description": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum esse natus blanditiis maiores repellendus repellat rem molestiae sint, asperiores pariatur id assumenda, vitae nemo incidunt eligendi, sapiente amet odit. Doloribus.",
+        "category": "consolas",
+        "img": "https://tap-multimedia-1172.nyc3.digitaloceanspaces.com/productimage/18623/711719530398.jpg",
+        "categoryId": 1
+      },
+      {
+        "id": "7",
+        "name": "Addidas Pelota de Futbol 11",
+        "price": 48,
+        "rating": 4,
+        "description": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum esse natus blanditiis maiores repellendus repellat rem molestiae sint, asperiores pariatur id assumenda, vitae nemo incidunt eligendi, sapiente amet odit. Doloribus.",
+        "category": "deportes",
+        "discount": {
+          "porcent": "5%",
+          "priceToDisc": "$2.5"
+        },
+        "img": "https://media.tycsports.com/files/2022/08/12/464399/la-nueva-pelota-del-futbol-argentino_1440x810_wmk.webp?v=1",
+        "categoryId": 2
+      },
+      {
+        "img": "https://media.istockphoto.com/id/172147072/es/foto/de-básquetbol.jpg?s=612x612&w=0&k=20&c=h5mS4Av4nTCNF9IgzmWS67k4iiwj6mNd1Cc1OUhG_Qc=",
+        "category": "deportes",
+        "name": "Pelota Basquet Sport N7 ",
+        "price": "30",
+        "description": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum esse natus blanditiis maiores repellendus repellat rem molestiae sint, asperiores pariatur id assumenda, vitae nemo incidunt eligendi, sapiente amet odit. Doloribus.",
+        "categoryId": 2,
+        "id": "8"
+      },
+      {
+        "id": "9",
+        "name": "Kit 2 Mancuernas Pesas + 20kg",
+        "price": 80,
+        "rating": 3,
+        "description": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum esse natus blanditiis maiores repellendus repellat rem molestiae sint, asperiores pariatur id assumenda, vitae nemo incidunt eligendi, sapiente amet odit. Doloribus.",
+        "category": "deportes",
+        "img": "https://images.fravega.com/f300/6518266a38527780c54110a256068897.jpg.webp",
+        "categoryId": 2
+      },
+      {
+        "id": "10",
+        "name": "Raqueta Tenis Wilson",
+        "price": 80,
+        "rating": 4,
+        "description": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum esse natus blanditiis maiores repellendus repellat rem molestiae sint, asperiores pariatur id assumenda, vitae nemo incidunt eligendi, sapiente amet odit. Doloribus.",
+        "category": "deportes",
+        "discount": {
+          "porcent": "10%",
+          "priceToDisc": "$10"
+        },
+        "img": "https://thumbs.nosto.com/quick/rbxh5h46/8/530052_alt_cf2f23e42b73377d9d9784f309b20a1a5bcc81f1a709fa4b3eadc94c060fae3c/84f4dad60f24d72d768072fa1914665334e5e0e35771cbb6dcbcce46c9e199f0/A",
+        "categoryId": 2
+      },
+      {
+        "id": "11",
+        "name": "Guantes Boxeo Profesional",
+        "price": 120,
+        "rating": 5,
+        "description": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum esse natus blanditiis maiores repellendus repellat rem molestiae sint, asperiores pariatur id assumenda, vitae nemo incidunt eligendi, sapiente amet odit. Doloribus.",
+        "category": "deportes",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_606999-MLA50135393520_052022-O.webp",
+        "categoryId": 2
+      },
+      {
+        "id": "12",
+        "name": "Whey Proteina en Polvo",
+        "price": 35,
+        "rating": 3,
+        "description": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum esse natus blanditiis maiores repellendus repellat rem molestiae sint, asperiores pariatur id assumenda, vitae nemo incidunt eligendi, sapiente amet odit. Doloribus.",
+        "category": "deportes",
+        "img": "https://farmacityar.vteximg.com.br/arquivos/ids/226270-1000-1000/143033_suplemento-dietario-whey-protein-sabor-vainilla-en-polvo-x-930-g_imagen-1.jpg?v=637957509895030000",
+        "categoryId": 2
+      },
+      {
+        "id": "13",
+        "name": "Zapatillas Novo White",
+        "price": 66,
+        "rating": 4,
+        "description": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum esse natus blanditiis maiores repellendus repellat rem molestiae sint, asperiores pariatur id assumenda, vitae nemo incidunt eligendi, sapiente amet odit. Doloribus.",
+        "category": "moda",
+        "discount": {
+          "porcent": "8%",
+          "priceToDisc": "$6"
+        },
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/076/452/products/whatsapp-image-2022-04-05-at-3-04-23-am1-e8936490b9ca95643116492505969993-1024-1024.jpeg",
+        "categoryId": 3
+      },
+      {
+        "id": "14",
+        "name": "Remera Jersey",
+        "price": 30,
+        "rating": 3,
+        "description": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum esse natus blanditiis maiores repellendus repellat rem molestiae sint, asperiores pariatur id assumenda, vitae nemo incidunt eligendi, sapiente amet odit. Doloribus.",
+        "category": "moda",
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/161/800/products/6630011-a90b8ba5ea5fd1557115881155057328-1024-1024.png",
+        "categoryId": 3
+      },
+      {
+        "id": "15",
+        "name": "Remera Deportiva Kalenji",
+        "price": 40,
+        "rating": 4,
+        "description": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum esse natus blanditiis maiores repellendus repellat rem molestiae sint, asperiores pariatur id assumenda, vitae nemo incidunt eligendi, sapiente amet odit. Doloribus.",
+        "category": "moda",
+        "discount": {
+          "porcent": "30%",
+          "priceToDisc": "$150"
+        },
+        "img": "https://http2.mlstatic.com/D_NQ_NP_945562-MLA51275500481_082022-W.jpg",
+        "categoryId": 3
+      },
+      {
+        "img": "https://http2.mlstatic.com/D_NQ_NP_602089-MLA43788154909_102020-W.jpg",
+        "category": "moda",
+        "name": "Chancleta Hombre Wave ",
+        "price": 35,
+        "description": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum esse natus blanditiis maiores repellendus repellat rem molestiae sint, asperiores pariatur id assumenda, vitae nemo incidunt eligendi, sapiente amet odit. Doloribus.",
+        "categoryId": 3,
+        "id": "16"
+      },
+      {
+        "id": "17",
+        "name": "Buzo Oversize",
+        "price": 48,
+        "rating": 5,
+        "description": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum esse natus blanditiis maiores repellendus repellat rem molestiae sint, asperiores pariatur id assumenda, vitae nemo incidunt eligendi, sapiente amet odit. Doloribus.",
+        "category": "moda",
+        "discount": {
+          "porcent": "5%",
+          "priceToDisc": "$2.5"
+        },
+        "img": "https://deliverind.com.ar/wp-content/uploads/2022/10/BUZO-OVERSIZE-RUSTICO-22-PORTADA-10-scaled.jpg",
+        "categoryId": 3
+      },
+      {
+        "id": "18",
+        "name": "Short Deportivo Kappa",
+        "price": 40,
+        "rating": 3,
+        "description": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum esse natus blanditiis maiores repellendus repellat rem molestiae sint, asperiores pariatur id assumenda, vitae nemo incidunt eligendi, sapiente amet odit. Doloribus.",
+        "category": "moda",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_689568-MLA49305592784_032022-O.webp",
+        "categoryId": 3
+      },
+      {
+        "img": "https://www.notebookcheck.org/fileadmin/Notebooks/News/_nc3/Untitled466619.png",
+        "category": "consola",
+        "name": "Play Station 5  Fisica Edition ",
+        "price": "399",
+        "description": "Experimentá una carga increíblemente rápida con un SSD de ultra alta velocidad, inmersión más profunda con soporte para retroalimentación háptica, disparadores adaptativos y audio 3D, y una nueva generación de juegos increíbles de PlayStation!",
+        "categoryId": 1,
+        "id": "0edaa5b0-d8f4-40cc-a8e7-e9a72fb643b7"
+      },
+      {
+        "id": "19",
+        "name": "Pc Gamer COMPLETE edition",
+        "price": 940,
+        "rating": 4,
+        "description": "¿Quieres disfrutar de tus juegos en 1440p en buenas condiciones? Esta configuración de PC Gamer de $940(oferta) debería satisfacer tus necesidades a la perfección.",
+        "category": "otros",
+        "discount": {
+          "porcent": "22%",
+          "priceToDisc": "$264"
+        },
+        "img": "https://www.pcgamer.fr/wp-content/uploads/2020/02/pc-gamer-1000-euros.png",
+        "categoryId": 4
+      },
+      {
+        "img": "https://www.lenovo.com/medias/mkt-hero.png?context=bWFzdGVyfHJvb3R8MjM1NTEwfGltYWdlL3BuZ3xoNzIvaDBmLzE1ODY4NzEwOTQ0Nzk4LnBuZ3xmNzRmYmVmYmI5YTljMTI0OTY2MzRlNTgzYWRiZjE0MDVmMjI2ODZmN2E0M2FjNjQ5NDRmNjQ1Y2ZmOGVlNWQz",
+        "category": "otros",
+        "name": "Lenovo Tab P12 PRO ",
+        "price": 400,
+        "description": "Mantente a la vanguardia desde cualquier lugar, Estate siempre preparado para todo con la tablet Lenovo Tab P12 Pro, tu espacio de trabajo portátil, editor de video, bloc de notas y lienzo, todo en uno.",
+        "categoryId": 4,
+        "id": "20"
+      },
+      {
+        "id": "21",
+        "name": "Uncharted Legacy of thieves collection",
+        "price": 125,
+        "rating": 5,
+        "description": "Descubre la historia perdida con los carismáticos, aunque complejos, ladrones, Nathan Drake y Chloe Frazer, mientras viajan por el mundo con un sentido de curiosidad en busca de aventuras extraordinarias y la historia perdida.",
+        "category": "otros",
+        "discount": {
+          "porcent": "10%",
+          "priceToDisc": "$15"
+        },
+        "img": "https://www.atajo.com.ar/images/PS5-UNCHARTEDLEGACY000328533PS-LATAM-ULOTC-RT.jpg",
+        "categoryId": 4
+      },
+      {
+        "id": "22",
+        "name": "Meta Quest 2 ",
+        "price": 400,
+        "rating": 3,
+        "description": " Hardware de siguiente nivel: haz que cada movimiento cuente con un procesador ultrarrápido y nuestra pantalla de la más alta resolución, Juegos todo en uno: con compatibilidad anterior, puedes explorar nuevos títulos y viejos favoritos en la amplia biblioteca de contenido Quest",
+        "category": "otros",
+        "img": "https://m.media-amazon.com/images/I/31zeRB5YWuL._AC_SY1000_.jpg",
+        "categoryId": 4
+      },
+      {
+        "img": "https://www.naldo.com.ar/medias/504801.4-515Wx515H?context=bWFzdGVyfHJvb3R8MjEyMDV8aW1hZ2UvanBlZ3xoNjIvaDE1Lzk2NzA3MDQ4NTcxMTguanBnfGJhZDNiOGQwNzVhZTE0NjE5YjQ3NThlZDMwZTIwYjUyZmRlMGRmMDMyNjM4Yzk3ZDVhZTFlYzQ1YWVjMjc1NTY",
+        "category": "otros",
+        "name": "Smart TV Noblex 65'' 4k ",
+        "price": "239",
+        "description": "La TV de Noblex de 65 es Smart y su tipo de tecnología es 4K, ideal para ver todo el contenido que vos quieras y eligas, con la mejor definición en las imágenes. Su tecnología de Quantum Dot potencia el color, reproduciéndolo con mayor precisión para que puedas ver los colores de la misma forma en la que están siendo transmitidos.",
+        "categoryId": 4,
+        "id": "23"
+      },
+      {
+        "img": "http://d3ugyf2ht6aenh.cloudfront.net/stores/969/083/products/untitled-111-30c6ce711c61e0e43816509974864229-640-0.jpg",
+        "category": "otros",
+        "name": "Guitarra Electrica Ibanez Azes40",
+        "price": "595",
+        "discount": {
+          "porcent": "30%",
+          "priceToDisc": "$255"
+        },
+        "description": "Cuerpo de álamo: sustenta el instrumento con un sonido neutro rico en sostenido.Mástil de arce con escala de 25: más corto que una longitud de escala convencional de 25,5, esta escala fácil de usar hace que el instrumento se sienta más fácil de tocar ya que los trastes se acercan un poco más y las cuerdas tienen menos tensión.",
+        "categoryId": 4,
+        "id": "24"
+      }
+    ],
+    "categories": [
+      {
+        "id": "1",
+        "name": "consolas",
+        "description": "consolas, computadoras, etc"
+      },
+      {
+        "id": "2",
+        "name": "deportes",
+        "description": "deportes, fitnnes, etc"
+      },
+      {
+        "id": "3",
+        "name": "moda",
+        "description": "ropa, zapatillas, etc"
+      },
+      {
+        "id": "4",
+        "name": "otros",
+        "description": "ropa, zapatillas, etc"
+      }
+    ]
+  }
